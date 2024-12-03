@@ -16,10 +16,9 @@
 - The dataset used for this analysis is the "Electric Vehicle Data set" file, containing detailed information.
 - You can download the dataset from the following link: [Electric Vehicle Data set](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population)
 ### 🛠️Tools Used <a name="tools-used"></a>
- - **Excel**: For data cleaning, analysis, and initial visualizations.
- - **SQL Server**: For querying and analyzing the dataset.
-
-### ❓Problem Statement
+ - **Excel**: For data cleaning, analysis, and visualizations.
+ 
+ ### ❓Problem Statement
  - ####  KPIs Requirement:
 
    ##### 1. Total Vehicles:
