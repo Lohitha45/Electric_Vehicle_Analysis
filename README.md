@@ -1,6 +1,6 @@
 # Electric_Vehicle_Analysis
 ### Overview
- This project analyzes Electric Vehicle data using **Excel**. It includes data cleaning, creating dashboards in Excel, The Electric Vehicle (EV) dashboard highlights key insights, such as total EVs , average electric range, and market dominance of BEVs. It visualizes EV trends by year, state, manufacturer, and model, along with eligibility for clean fuel incentives. This analysis helps understand the EV market’s growth and adoption patterns.
+ This project analyzes Electric Vehicle data using **Power BI**. It includes data cleaning, creating dashboards in Excel, The Electric Vehicle (EV) dashboard highlights key insights, such as total EVs , average electric range, and market dominance of BEVs. It visualizes EV trends by year, state, manufacturer, and model, along with eligibility for clean fuel incentives. This analysis helps understand the EV market’s growth and adoption patterns.
  
 ### 📚Table of Contents:
 1. [Overview](#overview)
@@ -16,7 +16,7 @@
 - The dataset used for this analysis is the "Electric Vehicle Data set" file, containing detailed information.
 - You can download the dataset from the following link: [Electric Vehicle Data set](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population)
 ### 🛠️Tools Used <a name="tools-used"></a>
- - **Excel**: For data cleaning, analysis, and visualizations.
+ - **Power BI**: For data cleaning, analysis, and visualizations.
  
  ### ❓Problem Statement
  - ####  KPIs Requirement:
