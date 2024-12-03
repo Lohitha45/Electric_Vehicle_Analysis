@@ -13,8 +13,8 @@
 8. [Recommendations](#recommendations)
 9. [Conclusion](#conclusion)
 ### 🗂️ Data Sources <a name="data-sources"></a> 
-- The dataset used for this analysis is the "Pizza_Sales_Data.csv" file, containing detailed information.
-- You can download the dataset from the following link: [Pizza_Sales_Data.csv](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/Pizza_Sales_Data%20.csv)
+- The dataset used for this analysis is the "Electric Vehicle Data set" file, containing detailed information.
+- You can download the dataset from the following link: [Electric Vehicle Data set](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population)
 ### 🛠️Tools Used <a name="tools-used"></a>
  - **Excel**: For data cleaning, analysis, and initial visualizations.
  - **SQL Server**: For querying and analyzing the dataset.
