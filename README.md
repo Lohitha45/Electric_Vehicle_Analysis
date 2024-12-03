@@ -63,7 +63,7 @@
 3. Created pivot tables according to the questions asked.
 4. Merge all pivot tables into one dashboard.
 ### 📊Result and Findings <a name="result-and-findings"></a>
-![Screenshot (184)](https://github.com/Lohitha45/pizza-sales-analysis/blob/main/Screenshot%20(184).png)
+![ElectricVehicles_Dashboard](https://github.com/Lohitha45/Electric_Vehicle_Analysis/blob/main/ElectricVehicles%20_Dashboard.png)
 ### 🧐Key Findings
 #### 1. Busiest Days and Times
 - **Days**: Orders are highest on weekends, particularly on **Friday** and **Saturday evenings**.
